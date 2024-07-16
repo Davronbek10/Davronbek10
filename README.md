@@ -1,8 +1,8 @@
 # About me
 <p>Hey! 👋 I'm Davron Xaitov (davronxaitov).</p>
 
-- Leetcode:                           [davronxaitov](https://leetcode.com/u/davronxayitov/)
-- Telegram:                           [davronxaitov](https://t.me/DavrichPrime)
+- Leetcode:                           [DavronXaitov](https://leetcode.com/u/Davron_Xaitov/)
+- Telegram:                           [DavronXaitov](https://t.me/DavrichPrime)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css)](https://skillicons.dev)
 
